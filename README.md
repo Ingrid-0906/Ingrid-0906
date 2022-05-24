@@ -44,7 +44,7 @@ I'm Ingrid Cadu and I recently graduated from Data Science University in Brazil 
 - 💪 I’m currently working on Forage.Com
 - 👩‍🎓 I’m currently pursing a MBA in Machine Learning at Washington University
 - 🧙‍♀️ Ask me about anything related to Data Analysis, Statistic&Probability and Machine Learning
-- 🤦‍♀️ Fun fact: I talk alone when I am stucked in a hard problem
+- 🤦‍♀️ Fun fact: I like singing when I am stucked in a hard problem
 
 ### I love...
 Statistic | Probability | Machine Learning | Hypothesis Testing | Descriptive Analysis 
