@@ -53,4 +53,5 @@ Statistic | Probability | Machine Learning | Hypothesis Testing | Descriptive An
 ### My Virtual Internship Repo
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=One-Day-BCG-Internship)](https://github.com/Ingrid-0906/One-Day-BCG-Internship)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=KPMG-Internship-2022)](https://github.com/Ingrid-0906/KPMG-Internship-2022)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=Accenture-Australia)](https://github.com/Ingrid-0906/Accenture-Australia)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=Quantium_Internship_22)](https://github.com/Ingrid-0906/Quantium_Internship_22)
