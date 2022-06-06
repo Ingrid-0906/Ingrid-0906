@@ -39,7 +39,7 @@
 
 ### About me
 
-I'm Ingrid Cadu and I recently graduated from Data Science University in Brazil 👩‍💻 by now I am working in Virtual Internships ✌️ and getting read to interviews.
+I'm Ingrid Cadu and I recently graduated from Data Science University in Brazil 👩‍💻 by now I am working in Virtual Internships ✌️ and getting read for interview.
 <br>
 - 💪 I’m currently working on Forage.Com
 - 👩‍🎓 I’m currently pursing a MBA in Machine Learning at Washington University
