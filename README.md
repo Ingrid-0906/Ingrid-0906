@@ -39,18 +39,18 @@
 
 ### About me
 
-I'm Ingrid Cadu and I recently graduated from Data Science University in Brazil 👩‍💻 by now I am working in Virtual Internships ✌️ and getting read for interview.
+I'm Ingrid Cadu, I'm an Analyst of System and Databases, and recently pursing a Software Engineering Bachelor's Degree👩‍💻✌️.
 <br>
-- 💪 I’m currently working on Start-Up
-- 👩‍🎓 I’m currently pursing a MBA in Machine Learning at Washington University
-- 🧙‍♀️ Ask me about anything related to Data Analysis, Statistic&Probability and Machine Learning
-- 🐒 Fun fact: I am a nerd crazy for 'Planet of Alpes' LOL!
+- 💪 I’m currently working on a great company
+- 👩‍🎓 I’m currently pursing a MBA in Machine Learning at Washington University.
+- 🧙‍♀️ Ask me about anything related to Data Analysis, Statistic&Probability, Machine Learning and Maths
+- 🐒 Fun fact: I am a nerd crazy for 'Planet of Alpes' and 'Star Wars' LOL!
 
 ### I love...
-Statistic | Probability | Machine Learning | Hypothesis Testing | Descriptive Analysis 
+Statistic | Probability | Machine Learning | Hypothesis Testing | Descriptive Analysis | Maths
 <br>
 
-### My Virtual Internship Repo
+### My Virtual Internship Repo (only the coolest ;) )
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=One-Day-BCG-Internship-2022)](https://github.com/Ingrid-0906/One-Day-BCG-Internship-2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=KPMG-Internship-2022)](https://github.com/Ingrid-0906/KPMG-Internship-2022)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ingrid-0906&repo=Accenture-Australia-Internship-2022)](https://github.com/Ingrid-0906/Accenture-Australia-Internship-2022)
